@@ -112,3 +112,4 @@ ls          #To see our new target directory
 cd target
 ```
 
+## **You can do same using Ubuntu but bear in mind that the commands will change based on the fact that you will be using Ubuntu**
