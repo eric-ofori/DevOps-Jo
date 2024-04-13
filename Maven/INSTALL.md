@@ -20,6 +20,8 @@ cd /opt
 sudo yum install wget nano tree unzip git -y
 ```
 
+![1_java_install.png](/Maven/Images/1_java_install.png)
+
 ```
 sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
 ```
@@ -35,6 +37,8 @@ java -version
 ```
 git --version
 ```
+
+![2_java_git_version.png](/Maven/Images/2_java_git_version.png)
 
 ### Step 2: Install Maven      (Steps from here onwards can be scripted to run so you do not have to do it manually)
 ### Download the Maven Software
