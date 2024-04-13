@@ -24,6 +24,8 @@ sudo yum install wget nano tree unzip git -y
 sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
 ```
 
+![1_java_install.png](/Maven/Images/1_java_install.png)
+
 ### Check to confirm installation of git & java
 
 ```
