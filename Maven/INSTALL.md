@@ -20,8 +20,6 @@ cd /opt
 sudo yum install wget nano tree unzip git -y
 ```
 
-![1_java_install.png](/Maven/Images/1_java_install.png)
-
 ```
 sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
 ```
@@ -108,6 +106,10 @@ cd web-app
 
 ```
 mvn clean
+```
+
+```
+mvn package
 ```
 
 ```
